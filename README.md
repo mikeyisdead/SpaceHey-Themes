@@ -4,7 +4,7 @@ Themes for https://spacehey.com
 
 ## Use
 
-Apply a theme by copying the text into the "About me" box on your profile.
+Apply a theme by copying the text into the "About me" box on your profile settings.
 
 
 ## Themes
