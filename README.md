@@ -11,19 +11,19 @@ Apply a theme by copying the text into the "About me" box on your profile settin
 
 **Facebook**
 
-    @import url("https://raw.githubusercontent.com/ElijahPepe/SpaceHey-Themes/master/Facebook.css");
+    @import url("https://raw.githubusercontent.com/ElijahPepe/SpaceHey-Themes/main/Facebook.css");
 
 **Windows95**
 
-    @import url("https://raw.githubusercontent.com/ElijahPepe/SpaceHey-Themes/master/Windows95.css");
+    @import url("https://raw.githubusercontent.com/ElijahPepe/SpaceHey-Themes/main/Windows95.css");
 
 **Lounge**
   
-    @import url("https://raw.githubusercontent.com/ElijahPepe/SpaceHey-Themes/master/Lounge.css");
+    @import url("https://raw.githubusercontent.com/ElijahPepe/SpaceHey-Themes/main/Lounge.css");
 
 **PornHub**
 
-    @import url("https://raw.githubusercontent.com/ElijahPepe/SpaceHey-Themes/master/PornHub.css");
+    @import url("https://raw.githubusercontent.com/ElijahPepe/SpaceHey-Themes/main/PornHub.css");
 
 ## Other
 
